@@ -9,7 +9,7 @@ public class Person {
     private String lastName;
     private String email;
     
-// Constructor to initialize a Person object
+// Constructor to initialize a Person objects
     public Person(int id, String firstName, String lastName, String email) {
         this.id = id;
         this.firstName = firstName;

@@ -12,7 +12,7 @@ public class Team {
         this.name = name;
         this.members = members;
     }
-  // Get the name of the team
+  // Get the name of the teams
     public String getName() {
         return name;
     }
